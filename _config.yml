@@ -1,1 +1,18 @@
+title: Linus Luu's Site
+description: A site!
+author: Linus Luu
 theme: minima
+
+# Navigation links
+navbar:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+
+# Social media links
+social_links:
+  - title: Wordpress
+    url: https://linusluu.wordpress.com
+  - title: Twitter
+    url: https://twitter.com/linusluu_
