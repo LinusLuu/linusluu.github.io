@@ -1,7 +1,8 @@
 title: linus luu
 description: a pretty cool website
-author: linus luu
 theme: minima
+
+permalink: /:year/:month/:day/:title/
 
 # Navigation links
 navbar:

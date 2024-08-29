@@ -3,4 +3,4 @@ layout: home
 title: home
 ---
 
-Hey! Welcome to my page.
+hey! welcome to my page
