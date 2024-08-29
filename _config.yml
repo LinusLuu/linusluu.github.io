@@ -1,6 +1,6 @@
-title: Linus Luu's Site
-description: A site!
-author: Linus Luu
+title: linus luu
+description: a pretty cool website
+author: linus luu
 theme: minima
 
 # Navigation links
@@ -12,7 +12,7 @@ navbar:
 
 # Social media links
 social_links:
-  - title: Wordpress
+  - title: blog
     url: https://linusluu.wordpress.com
-  - title: Twitter
+  - title: twitter
     url: https://twitter.com/linusluu_

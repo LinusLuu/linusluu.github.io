@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is a minimal about page. You can add more information about yourself or your site here.
+
